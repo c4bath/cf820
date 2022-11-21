@@ -12,6 +12,12 @@ The csv file is in my google drive and shared with anyone with the link :
 
 https://drive.google.com/file/d/1zAxKDi6sWfjmYPXJosD1KwftiRCvb4tG/view?usp=share_link
 
+The file is also available at:
+https://www.kaggle.com/datasets/sadiaanzum/patient-survival-prediction-dataset
+
+Per Kaggle: source of the dataset: https://journals.lww.com/ccmjournal/Citation/2019/01001/33__THE_GLOBAL_OPEN_SOURCE_SEVERITY_OF_ILLNESS.36.aspx
+
+
 
 Project Status:
 
