@@ -17,7 +17,7 @@ https://www.kaggle.com/datasets/sadiaanzum/patient-survival-prediction-dataset
 
 Per Kaggle: source of the dataset: https://journals.lww.com/ccmjournal/Citation/2019/01001/33__THE_GLOBAL_OPEN_SOURCE_SEVERITY_OF_ILLNESS.36.aspx
 
-
+Please see Data_Dictionary.csv file for explanation / definitions of features
 
 Project Status:
 
