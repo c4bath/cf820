@@ -1,16 +1,12 @@
-Christopher Forbath
-https://github.com/c4bath/cf820
-ID 501168902
-Toronto Metropolitan University
-CIND820 D1H - Big Data Analytics Project
-Ceni Babaoglu, PhD
+CIND820 D1H - Big Data Analytics Project - Module 3
+
 
 File submitted for Module 3 at https://github.com/c4bath/cf820
 
 Filename: cforbathMod3.ipynb
 
 
-Dataset
+Dataset:
 
 The csv file is in my google drive and shared with anyone with the link :
 
