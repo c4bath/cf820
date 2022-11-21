@@ -25,9 +25,9 @@ Data preprocessing including:
 
 * High level data description
 * Dropping columns as per module 2 that do not provide any: 
-+ information value (i.e. 'encounter_id', 'patient_id', 'hospital_id'*)  Change from module 2 – hospital_id is no longer included
-+ the predicted probabilities from the APACHE IV model ('apache_4a_hospital_death_prob','apache_4a_icu_death_prob')
-+ OR are not of interest in our prediction and analysis (the physiological measures, i.e. 'bilirubin_apache','bun_apache','creatinine_apache', etc) – these account for the overwhelming majority of the dropped features
+1. information value (i.e. 'encounter_id', 'patient_id', 'hospital_id'*)  Change from module 2 – hospital_id is no longer included
+2. the predicted probabilities from the APACHE IV model ('apache_4a_hospital_death_prob','apache_4a_icu_death_prob')
+3.  OR are not of interest in our prediction and analysis (the physiological measures, i.e. 'bilirubin_apache','bun_apache','creatinine_apache', etc) – these account for the overwhelming majority of the dropped features
 
 Dropped rows with 2 or more missing values
 Dropped feature that had the same value (' gcs_unable_apache’:  0) for all observations
@@ -51,11 +51,12 @@ Feature Selection:
 
 Model Selection:
 * Evaluated the following classifiers on the imbalanced dataset
-* Logistic Regression
-* XGB Classifier 
-* Random Forest
-* Gaussian Naïve Bayes
-+ Gaussian NB performed the best overall
+1. Logistic Regression
+2. XGB Classifier 
+3. Random Forest
+4. Gaussian Naïve Bayes
+
+* Gaussian NB performed the best overall
 
 Modelling with balanced dataset:
 * Ran Gaussian NB while applying Synthetic Minority Oversampling Technique (SMOTE) to address class imbalance and evaluated and compared performance
