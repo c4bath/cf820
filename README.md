@@ -6,7 +6,7 @@ December 5, 2022
 
 CIND820 D1H - Big Data Analytics Project - Modules 4 and 5
 
-Files submitted for at https://github.com/c4bath/cf820 and via d2l
+Files submitted at https://github.com/c4bath/cf820 and via d2l
 
 Please read the following information and instructions about the files (2 x data files and 3 x .ipynb)
 
