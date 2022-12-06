@@ -3,21 +3,33 @@ TMU CIND820
 
 
 December 5, 2022
+
 CIND820 D1H - Big Data Analytics Project - Modules 4 and 5
+
 Files submitted for at https://github.com/c4bath/cf820 and via d2l
+
 Please read the following information and instructions about the files (2 x data files and 3 x .ipynb)
+
 Datasets:
+
 There are 2 datafiles:
+
 Main file (too big for github). This is used with the cfMOD4smote.ipynb and cfMOD4imbal.ipynb files.  The csv file is in my google drive and shared with anyone with the link :
+
 https://drive.google.com/file/d/1zAxKDi6sWfjmYPXJosD1KwftiRCvb4tG/view?usp=share_link
+
 The file is also available at: https://www.kaggle.com/datasets/sadiaanzum/patient-survival-prediction-dataset
+
 1.	In file cfMOD4smote.ipynb and cfMOD4imbal.ipynb 
+
 cell [4]:
+
 #IF USING GOOGLE DRIVE UNCOMMENT THE FOLLOWING 2 LINES:
 #from google.colab import drive
 #drive.mount('/content/drive')
 
 cell [5]:
+
 #IF USING GOOGLE DRIVE (copying file shortcut into end user's own google drive will enable access)
 #Uncomment and edit the following path and filename as needed:
 #data=pd.read_csv(r'/content/drive/MyDrive/820PublicData/PatSurvRaw.csv',header=0)
@@ -27,6 +39,7 @@ cell [5]:
 #data=pd.read_csv(r'/Users/Lj4b 1 2/Documents/Ryerson/CIND820BigDataProject/Data/PatSurvRaw.csv',header=0)
 
 2.	In file cfMOD4compact.ipynb, use the SmallPatSurvRaw.csv datafile either in my github or shared in my google drive
+
 #IF USING GOOGLE DRIVE (copying file shortcut into end user's own google drive will enable access)
 #Uncomment and edit the following path and filename as needed:
 #data=pd.read_csv(r'/content/drive/MyDrive/820PublicData/SmallPatSurvRaw.csv',header=0)
