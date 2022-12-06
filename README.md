@@ -52,7 +52,9 @@ Dataset information:
 Per Kaggle: source of the dataset: https://journals.lww.com/ccmjournal/Citation/2019/01001/33__THE_GLOBAL_OPEN_SOURCE_SEVERITY_OF_ILLNESS.36.aspx
 Please see Data_Dictionary.csv file for explanation / definitions of features
 
+********************************
 
+Previous readme entries (module 3)
 
 CIND820 D1H - Big Data Analytics Project - Module 3
 File submitted for Module 3 at https://github.com/c4bath/cf820
