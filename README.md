@@ -25,27 +25,37 @@ The file is also available at: https://www.kaggle.com/datasets/sadiaanzum/patien
 cell [4]:
 
 #IF USING GOOGLE DRIVE UNCOMMENT THE FOLLOWING 2 LINES:
+
 #from google.colab import drive
+
 #drive.mount('/content/drive')
 
 cell [5]:
 
 #IF USING GOOGLE DRIVE (copying file shortcut into end user's own google drive will enable access)
+
 #Uncomment and edit the following path and filename as needed:
+
 #data=pd.read_csv(r'/content/drive/MyDrive/820PublicData/PatSurvRaw.csv',header=0)
 
 #IF NOT USING GOOGLE DRIVE:
+
 #Uncomment and edit the following path and filename as needed:
+
 #data=pd.read_csv(r'/Users/Lj4b 1 2/Documents/Ryerson/CIND820BigDataProject/Data/PatSurvRaw.csv',header=0)
 
 2.	In file cfMOD4compact.ipynb, use the SmallPatSurvRaw.csv datafile either in my github or shared in my google drive
 
 #IF USING GOOGLE DRIVE (copying file shortcut into end user's own google drive will enable access)
+
 #Uncomment and edit the following path and filename as needed:
+
 #data=pd.read_csv(r'/content/drive/MyDrive/820PublicData/SmallPatSurvRaw.csv',header=0)
 
 #IF NOT USING GOOGLE DRIVE:
+
 #Uncomment and edit the following path and filename as needed:
+
 #data=pd.read_csv(r'/Users/Lj4b 1 2/Documents/Ryerson/CIND820BigDataProject/Data/SmallPatSurvRaw.csv',header=0)
 
 Dataset information:
