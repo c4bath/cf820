@@ -3,7 +3,7 @@ TMU CIND820
 
 December 6, 2022
 
-Uploaded compressed copy of main dataset as PatSurvRaw.csv.zip to gh
+Uploaded compressed copy of main dataset as PatSurvRaw.csv.zip
 
 December 5, 2022
 
