@@ -21,6 +21,8 @@ Main file (too big for github). This is used with the cfMOD4smote.ipynb and cfMO
 
 https://drive.google.com/file/d/1zAxKDi6sWfjmYPXJosD1KwftiRCvb4tG/view?usp=share_link
 
+Or in github: PatSurvRaw.csv.zip
+
 The file is also available at: https://www.kaggle.com/datasets/sadiaanzum/patient-survival-prediction-dataset
 
 1.	In file cfMOD4smote.ipynb and cfMOD4imbal.ipynb 
@@ -41,7 +43,7 @@ cell [5]:
 
 #data=pd.read_csv(r'/content/drive/MyDrive/820PublicData/PatSurvRaw.csv',header=0)
 
-#IF NOT USING GOOGLE DRIVE:
+#IF NOT USING GOOGLE DRIVE (i.e. file in github: PatSurvRaw.csv.zip):
 
 #Uncomment and edit the following path and filename as needed:
 
